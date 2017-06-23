@@ -1,7 +1,7 @@
 # Kolkata
 NodeSchool chapter for Kolkata, West Bengal, India
 
-* Organizer: [@codetanmoy] (https://github.com/codetanmoy)
+* Organizer: [@codetanmoy](https://github.com/codetanmoy)
 * Past Organizers: [@koustuvsinha](https://github.com/koustuvsinha) and [Kolkata Team](https://github.com/orgs/nodeschool/teams/kolkata)
 * Gitter : [Nodeschool/Kolkata](https://gitter.im/nodeschool/kolkata)
 * Twitter : [@nodeschoolkol](https://twitter.com/nodeschoolkol)
