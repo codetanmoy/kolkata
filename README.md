@@ -15,7 +15,7 @@ NodeSchool chapter for Kolkata, West Bengal, India
 
 * Inaugural Meetup on July 23rd, 2016, Saturday.
 
-Previously, Nodeschool Workshops were conducted in Institute of Engineering & Management, Kolkata under the chapter [Nodeschool IEM Kolkata](https://github.com/nodeschool/iem-kolkata). Check out their past events.
+* Previously, Nodeschool Workshops were conducted in Institute of Engineering & Management, Kolkata under the chapter [Nodeschool IEM Kolkata](https://github.com/nodeschool/iem-kolkata). Check out their past events.
 
 
 ## Prerequisites
